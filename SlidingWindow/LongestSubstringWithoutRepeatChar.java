@@ -48,6 +48,7 @@ public class LongestSubstringWithoutRepeatChar {
     }
 
     public static void main(String[] args) {
+        //Este es el main
        String s = "bbbbb";
        System.out.println("resultado: " + longestSubstring(s));
     }
