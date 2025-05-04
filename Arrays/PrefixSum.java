@@ -14,7 +14,6 @@ Output : 15
           5
  */
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 public class PrefixSum {

@@ -25,7 +25,6 @@ class CountingFrecuencies {
     public static void main(String args[]) 
     {
         int arr[] = {10, 20, 20, 10, 10, 20, 5, 20};
-        int n = arr.length;
         cuntingFrecuencies(arr);
     }
 }

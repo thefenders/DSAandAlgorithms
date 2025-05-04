@@ -16,7 +16,6 @@ Input: nums = [1,5,4,2,9,9,9], k = 3
 Output: 15
  */
 
-import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
